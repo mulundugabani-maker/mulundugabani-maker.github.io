@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.mulundugabani_maker.twa",
-    "sha256_cert_fingerprints": ["11:68:39:05:B5:2B:41:87:21:90:5B:94:82:D7:71:7F:C0:86:AA:34:C2:AD:3B:E2:61:38:EC:E5:EB:E7:C8:FB"]
+    "sha256_cert_fingerprints": [
+      "6C:E3:5D:39:7D:4D:7D:FC:C7:AB:EC:A0:A8:ED:A8:31:3D:92:31:E8:CE:78:37:25:9D:FC:04:7C:8D:7A:CF:C1",
+      "11:68:39:05:B5:2B:41:87:21:90:5B:94:82:D7:71:7F:C0:86:AA:34:C2:AD:3B:E2:61:38:EC:E5:EB:E7:C8:FB"
+    ]
   }
 }]
